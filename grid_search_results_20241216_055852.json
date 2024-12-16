@@ -1,0 +1,196 @@
+{
+    "all_results": [
+        {
+            "params": {
+                "sample_size": 50000,
+                "learning_rate": 0.001,
+                "lamJ": 0.0025,
+                "lamI": 0.05,
+                "epochs": 15,
+                "batch_size": 256
+            },
+            "auc_score": 0.17125911439959304,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 100000,
+                "learning_rate": 0.005,
+                "lamJ": 0.0025,
+                "lamI": 0.05,
+                "epochs": 10,
+                "batch_size": 128
+            },
+            "auc_score": 0.28678563214888514,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 150000,
+                "learning_rate": 0.005,
+                "lamJ": 0.001,
+                "lamI": 0.05,
+                "epochs": 5,
+                "batch_size": 256
+            },
+            "auc_score": 0.2604887599549546,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 100000,
+                "learning_rate": 0.005,
+                "lamJ": 0.001,
+                "lamI": 0.025,
+                "epochs": 10,
+                "batch_size": 256
+            },
+            "auc_score": 0.998671745547866,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 150000,
+                "learning_rate": 0.001,
+                "lamJ": 0.001,
+                "lamI": 0.025,
+                "epochs": 5,
+                "batch_size": 512
+            },
+            "auc_score": 0.9988797832383588,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 150000,
+                "learning_rate": 0.005,
+                "lamJ": 0.005,
+                "lamI": 0.01,
+                "epochs": 5,
+                "batch_size": 256
+            },
+            "auc_score": 0.9983979487248267,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 50000,
+                "learning_rate": 0.001,
+                "lamJ": 0.005,
+                "lamI": 0.05,
+                "epochs": 5,
+                "batch_size": 128
+            },
+            "auc_score": 0.18411130749659607,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 50000,
+                "learning_rate": 0.001,
+                "lamJ": 0.001,
+                "lamI": 0.01,
+                "epochs": 10,
+                "batch_size": 128
+            },
+            "auc_score": 0.6932897506910273,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 100000,
+                "learning_rate": 0.01,
+                "lamJ": 0.005,
+                "lamI": 0.025,
+                "epochs": 10,
+                "batch_size": 128
+            },
+            "auc_score": 0.6978516037397572,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 50000,
+                "learning_rate": 0.001,
+                "lamJ": 0.005,
+                "lamI": 0.01,
+                "epochs": 10,
+                "batch_size": 256
+            },
+            "auc_score": 0.7483797742186304,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 150000,
+                "learning_rate": 0.001,
+                "lamJ": 0.005,
+                "lamI": 0.01,
+                "epochs": 10,
+                "batch_size": 256
+            },
+            "auc_score": 0.9990003197684543,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 100000,
+                "learning_rate": 0.01,
+                "lamJ": 0.001,
+                "lamI": 0.05,
+                "epochs": 15,
+                "batch_size": 512
+            },
+            "auc_score": 0.19562212202903714,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 50000,
+                "learning_rate": 0.01,
+                "lamJ": 0.005,
+                "lamI": 0.05,
+                "epochs": 5,
+                "batch_size": 128
+            },
+            "auc_score": 0.23783098172550948,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 100000,
+                "learning_rate": 0.001,
+                "lamJ": 0.001,
+                "lamI": 0.025,
+                "epochs": 15,
+                "batch_size": 256
+            },
+            "auc_score": 0.9986494582795404,
+            "status": "success"
+        },
+        {
+            "params": {
+                "sample_size": 50000,
+                "learning_rate": 0.01,
+                "lamJ": 0.0025,
+                "lamI": 0.025,
+                "epochs": 15,
+                "batch_size": 128
+            },
+            "auc_score": 0.9988217246401425,
+            "status": "success"
+        }
+    ],
+    "best_result": {
+        "params": {
+            "sample_size": 150000,
+            "learning_rate": 0.001,
+            "lamJ": 0.005,
+            "lamI": 0.01,
+            "epochs": 10,
+            "batch_size": 256
+        },
+        "auc_score": 0.9990003197684543,
+        "status": "success"
+    }
+}
